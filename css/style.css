@@ -1,0 +1,99 @@
+*{
+    font-family: sans-serif;
+}
+
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+a{
+    text-decoration: none;
+}
+.lol:hover{
+    background-color: rgb(48, 132, 241);
+
+}
+/* .lol{
+    border-radius: round;
+} */
+/* .gul{
+    flex-wrap: wrap;
+} */
+/* .overlapping{
+    z-index: -1;
+} */
+.dastarkhwan{
+    justify-content: space-between;
+}
+
+#sadqah{
+    width: 320px;
+    height: 170px;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 20px 10px 10px gray;
+}
+#welfare{
+    width: 320px;
+    height: 170px;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 20px 10px 10px gray;
+}
+#medical{
+
+    width: 320px;
+    height: 170px;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 20px 10px 10px gray;
+}
+#sadqahcompound{
+    display: flex;
+    flex-wrap:wrap ;
+    /* justify-content: space-around; */
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 30px;
+padding-top: 0px;
+
+}
+#dastarkhwan,#roplant,#education{
+    width: 320px;
+    height: 170px;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 20px 10px 10px gray;
+}
+#dastarkhwancompound{
+    display: flex;
+    flex-wrap:wrap ;
+    /* justify-content: space-around; */
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 30px;
+padding-top: 0px;
+
+}
+/* .gul30{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0%;
+    background-color: rgb(156, 141, 128);
+    z-index:1;
+}
+.gul32{
+    z-index:-1;
+} */
+#upc{
+    background-color: rgb(204, 231, 224);
+}
